@@ -12,7 +12,7 @@ The main use-case for atomic operations as a replacement for operations that wou
 
 Related links:
 
-[stackoverflow](https://stackoverflow.com/questions/31978324/what-exactly-is-stdatomic)
+[stackoverflow: what exactly is stdatomic?](https://stackoverflow.com/questions/31978324/what-exactly-is-stdatomic)
 
 [Using atomics for thread synchronization in C++](https://www.justsoftwaresolutions.co.uk/2021/04/)
 
